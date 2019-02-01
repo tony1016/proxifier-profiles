@@ -38,8 +38,8 @@ By default Proxifier's profiles are stored under `~/Library/Application Support/
 If you want to use Git like me, you can run the following commands in a shell:
 
 ```shell
-git clone https://github.com/Jamesits/proxifier-profiles.git ~/.proxifier-profiles
-ln -s ~/.proxifier-profiles/Profiles/Current.ppx ~/Library/Application\ Support/Proxifier/Profiles/give-me-break.ppx
+git clone https://github.com/tony1016/proxifier-profiles.git ~/.proxifier-profiles
+ln -s ~/.proxifier-profiles/Profiles/Current.ppx ~/Library/Application\ Support/Proxifier/Profiles/GiveMeABreak.ppx
 ```
 
 ## References
