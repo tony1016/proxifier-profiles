@@ -27,7 +27,7 @@ Rules:
         - Services for programmers: Github, Homebrew, PyPI, Atom, Android SDK, etc.
         - Games: Minecraft, etc.
         - Common foreign CDNs
-    - All the NON-CHINESE web service
+    - **All the NON-CHINESE web service**
 
 These rules are split into individual items so you can simply enable or disable one using Proxifier's built-in mechanism, or redirect any of them to another proxy.
 
